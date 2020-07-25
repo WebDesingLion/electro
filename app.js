@@ -4,9 +4,9 @@ $(document).ready(function(){
 
     var height = $(window).height();
 
-    $("h1").height(height);
+    $("h4").height(height);
 
-    $("h1").css("font-size" , "65px");
+    $("h4").css("font-size" , "65px");
 
     /*--------------colorandom------------*/
 
